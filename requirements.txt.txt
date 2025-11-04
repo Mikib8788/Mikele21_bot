@@ -1,3 +1,4 @@
-requests
-pandas
-numpy
+
+
+delete wrong file
+remove duplicate txt
